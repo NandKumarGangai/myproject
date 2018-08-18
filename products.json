@@ -1,668 +1,638 @@
 [
     {
-        "productId": "HT-1007",
+        "productId": 2004,
         "productName": "ITelO Vault",
         "productDescription": "Digital Organizer with State-of-the-Art Storage Encryption",
         "productPrice": 299
     },
     {
-        "productId": "HT-1020",
+        "productId": 2007,
         "productName": "ITelO Vault Net",
         "productDescription": "Digital Organizer with State-of-the-Art Encryption for Storage and Network Communications",
         "productPrice": 459
     },
     {
-        "productId": "HT-1021",
+        "productId": 2008,
         "productName": "ITelO Vault SAT",
         "productDescription": "Digital Organizer with State-of-the-Art Encryption for Storage and Secure Stellite Link",
         "productPrice": 149
     },
     {
-        "productId": "HT-1022",
+        "productId": 2009,
         "productName": "Comfort Easy",
         "productDescription": "32 GB Digital Assistant with high-resolution color screen",
         "productPrice": 1679
     },
     {
-        "productId": "HT-1023",
+        "productId": 2010,
         "productName": "Comfort Senior",
         "productDescription": "64 GB Digital Assistant with high-resolution color screen and synthesized voice output",
         "productPrice": 512
     },
     {
-        "productId": "HT-1030",
+        "productId": 2011,
         "productName": "Ergo Screen E-I",
         "productDescription": "Optimum Hi-Resolution max. 1920 x 1080 @ 85Hz, Dot Pitch: 0.27mm",
         "productPrice": 230
     },
     {
-        "productId": "HT-1031",
+        "productId": 2012,
         "productName": "Ergo Screen E-II",
         "productDescription": "Optimum Hi-Resolution max. 1920 x 1200 @ 85Hz, Dot Pitch: 0.26mm",
         "productPrice": 285
     },
     {
-        "productId": "HT-1032",
+        "productId": 2013,
         "productName": "Ergo Screen E-III",
         "productDescription": "Optimum Hi-Resolution max. 2560 x 1440 @ 85Hz, Dot Pitch: 0.25mm",
         "productPrice": 345
     },
     {
-        "productId": "HT-1035",
+        "productId": 2014,
         "productName": "Flat Basic",
         "productDescription": "Optimum Hi-Resolution max. 1600 x 1200 @ 85Hz, Dot Pitch: 0.24mm",
         "productPrice": 399
     },
     {
-        "productId": "HT-1036",
+        "productId": 2015,
         "productName": "Flat Future",
         "productDescription": "Optimum Hi-Resolution max. 2048 x 1080 @ 85Hz, Dot Pitch: 0.26mm",
         "productPrice": 430
     },
     {
-        "productId": "HT-1037",
+        "productId": 2016,
         "productName": "Flat XL",
         "productDescription": "Optimum Hi-Resolution max. 2016 x 1512 @ 85Hz, Dot Pitch: 0.24mm",
         "productPrice": 1230
     },
     {
-        "productId": "HT-1040",
+        "productId": 2017,
         "productName": "Laser Professional Eco",
         "productDescription": "Print 2400 dpi image quality color documents at speeds of up to 32 ppm (color) or 36 ppm (monochrome), letter/A4. Powerful 500 MHz processor, 512MB of memory",
         "productPrice": 830
     },
     {
-        "productId": "HT-1041",
+        "productId": 2018,
         "productName": "Laser Basic",
         "productDescription": "Up to 22 ppm color or 24 ppm monochrome A4/letter, powerful 500 MHz processor and 128MB of memory",
         "productPrice": 490
     },
     {
-        "productId": "HT-1042",
+        "productId": 2019,
         "productName": "Laser Allround",
         "productDescription": "Print up to 25 ppm letter and 24 ppm A4 color or monochrome, with Available first-page-out-time of less than 13 seconds for monochrome and less than 15 seconds for color",
         "productPrice": 349
     },
     {
-        "productId": "HT-1050",
+        "productId": 2020,
         "productName": "Ultra Jet Super Color",
         "productDescription": "4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB, Ethernet",
         "productPrice": 139
     },
     {
-        "productId": "HT-1051",
+        "productId": 2021,
         "productName": "Ultra Jet Mobile",
         "productDescription": "1000 dpi x 1000 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB - excellent dimensions for the small office",
         "productPrice": 99
     },
     {
-        "productId": "HT-1052",
+        "productId": 2022,
         "productName": "Ultra Jet Super Highspeed",
         "productDescription": "4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB2.0, Ethernet",
         "productPrice": 170
     },
     {
-        "productId": "HT-1055",
+        "productId": 2023,
         "productName": "Multi Print",
         "productDescription": "1000 dpi x 1000 dpi - up to 16 ppm (mono) / up to 15 ppm (color)- capacity 80 sheets - scanner (216 x 297 mm, 1200dpi x 2400dpi)",
         "productPrice": 99
     },
     {
-        "productId": "HT-1056",
+        "productId": 2024,
         "productName": "Multi Color",
         "productDescription": "1200 dpi x 1200 dpi - up to 25 ppm (mono) / up to 24 ppm (color)- capacity 80 sheets - scanner (216 x 297 mm, 2400dpi x 4800dpi, high resolution)",
         "productPrice": 119
     },
     {
-        "productId": "HT-1060",
+        "productId": 2025,
         "productName": "Cordless Mouse",
         "productDescription": "Cordless Optical USB Mice, Laptop, Color: Black, Plug&Play",
         "productPrice": 9
     },
     {
-        "productId": "HT-1061",
+        "productId": 2026,
         "productName": "Speed Mouse",
         "productDescription": "Optical USB, PS/2 Mouse, Color: Blue, 3-button-functionality (incl. Scroll wheel)",
         "productPrice": 7
     },
     {
-        "productId": "HT-1062",
+        "productId": 2027,
         "productName": "Track Mouse",
         "productDescription": "Optical USB Mouse, Color: Red, 5-button-functionality(incl. Scroll wheel), Plug&Play",
         "productPrice": 11
     },
     {
-        "productId": "HT-1063",
+        "productId": 2028,
         "productName": "Ergonomic Keyboard",
         "productDescription": "Ergonomic USB Keyboard for Desktop, Plug&Play",
         "productPrice": 14
     },
     {
-        "productId": "HT-1064",
+        "productId": 2029,
         "productName": "Internet Keyboard",
         "productDescription": "Corded Keyboard with special keys for Internet Usability, USB",
         "productPrice": 16
     },
     {
-        "productId": "HT-1065",
+        "productId": 2030,
         "productName": "Media Keyboard",
         "productDescription": "Corded Ergonomic Keyboard with special keys for Media Usability, USB",
         "productPrice": 26
     },
     {
-        "productId": "HT-1066",
+        "productId": 2031,
         "productName": "Mousepad",
         "productDescription": "Nice mouse pad with ITelO Logo",
         "productPrice": 6.99
     },
     {
-        "productId": "HT-1067",
+        "productId": 2032,
         "productName": "Ergo Mousepad",
         "productDescription": "Ergonomic mouse pad with ITelO Logo",
         "productPrice": 8.99
     },
     {
-        "productId": "HT-1068",
+        "productId": 2033,
         "productName": "Designer Mousepad",
         "productDescription": "ITelO Mousepad Special Edition",
         "productPrice": 12.99
     },
     {
-        "productId": "HT-1069",
+        "productId": 2034,
         "productName": "Universal card reader",
         "productDescription": "Universal card reader",
         "productPrice": 14
     },
     {
-        "productId": "HT-1070",
+        "productId": 2035,
         "productName": "Proctra X",
         "productDescription": "Proctra X: PCI-E GDDR5 3072MB",
         "productPrice": 70.9
     },
     {
-        "productId": "HT-1071",
+        "productId": 2036,
         "productName": "Gladiator MX",
         "productDescription": "Gladiator XLN: PCI-E GDDR5 3072MB DVI Out, TV Out low-noise",
         "productPrice": 81.7
     },
     {
-        "productId": "HT-1072",
+        "productId": 2037,
         "productName": "Hurricane GX",
         "productDescription": "Hurricane GX: PCI-E 691 GFLOPS game-optimized",
         "productPrice": 101.2
     },
     {
-        "productId": "HT-1073",
+        "productId": 2038,
         "productName": "Hurricane GX/LN",
         "productDescription": "Hurricane GX/LN: PCI-E 691 GFLOPS game-optimized, low-noise.",
         "productPrice": 139.99
     },
     {
-        "productId": "HT-1080",
+        "productId": 2039,
         "productName": "Photo Scan",
         "productDescription": "Flatbed scanner - 9.600 × 9.600 dpi - 216 x 297 mm - Hi-Speed USB - Bluetooth",
         "productPrice": 129
     },
     {
-        "productId": "HT-1081",
+        "productId": 2040,
         "productName": "Power Scan",
         "productDescription": "Flatbed scanner - 9.600 × 9.600 dpi - 216 x 297 mm - SCSI for backward compatibility",
         "productPrice": 89
     },
     {
-        "productId": "HT-1082",
+        "productId": 2041,
         "productName": "Jet Scan Professional",
         "productDescription": "Flatbed scanner - Letter - 2400 dpi x 2400 dpi - 216 x 297 mm - add-on module",
         "productPrice": 169
     },
     {
-        "productId": "HT-1083",
+        "productId": 2042,
         "productName": "Jet Scan Professional",
         "productDescription": "Flatbed scanner - A4 - 2400 dpi x 2400 dpi - 216 x 297 mm - add-on module",
         "productPrice": 189
     },
     {
-        "productId": "HT-1085",
+        "productId": 2043,
         "productName": "Copymaster",
         "productDescription": "Copymaster",
         "productPrice": 1499
     },
     {
-        "productId": "HT-1090",
+        "productId": 2044,
         "productName": "Surround Sound",
         "productDescription": "PC multimedia speakers - 5 Watt (Total)",
         "productPrice": 39
     },
     {
-        "productId": "HT-1091",
+        "productId": 2045,
         "productName": "Blaster Extreme",
         "productDescription": "PC multimedia speakers - 10 Watt (Total) - 2-way",
         "productPrice": 26
     },
     {
-        "productId": "HT-1092",
+        "productId": 2046,
         "productName": "Sound Booster",
         "productDescription": "PC multimedia speakers - optimized for Blutooth/A2DP",
         "productPrice": 45
     },
     {
-        "productId": "HT-1100",
+        "productId": 2047,
         "productName": "Smart Office",
         "productDescription": "Complete package, 1 User, Office Applications (word processing, spreadsheet, presentations)",
         "productPrice": 89.9
     },
     {
-        "productId": "HT-1101",
+        "productId": 2048,
         "productName": "Smart Design",
         "productDescription": "Complete package, 1 User, Image editing, processing",
         "productPrice": 79.9
     },
     {
-        "productId": "HT-1102",
+        "productId": 2049,
         "productName": "Smart Network",
         "productDescription": "Complete package, 1 User, Network Software Utilities, Useful Applications and Documentation",
         "productPrice": 69
     },
     {
-        "productId": "HT-1103",
+        "productId": 2050,
         "productName": "Smart Multimedia",
         "productDescription": "Complete package, 1 User, different Multimedia applications, playing music, watching DVDs, only with this Smart package",
         "productPrice": 77
     },
     {
-        "productId": "HT-1104",
+        "productId": 2051,
         "productName": "Smart Games",
         "productDescription": "Complete package, 1 User, various games for amusement, logic, action, jump&run",
         "productPrice": 55
     },
     {
-        "productId": "HT-1105",
+        "productId": 2052,
         "productName": "Smart Internet Antivirus",
         "productDescription": "Complete package, 1 User, highly recommended for internet users as anti-virus protection",
         "productPrice": 29
     },
     {
-        "productId": "HT-1106",
+        "productId": 2053,
         "productName": "Smart Firewall",
         "productDescription": "Complete package, 1 User, recommended for internet users, protect your PC against cyber-crime",
         "productPrice": 34
     },
     {
-        "productId": "HT-1107",
+        "productId": 2054,
         "productName": "Smart Money",
         "productDescription": "Complete package, 1 User, bring your money in your mind, see what you have and what you want",
         "productPrice": 29.9
     },
     {
-        "productId": "HT-1110",
+        "productId": 2055,
         "productName": "PC Lock",
         "productDescription": "Robust 3m anti-burglary protection for your laptop computer",
         "productPrice": 8.9
     },
     {
-        "productId": "HT-1111",
+        "productId": 2056,
         "productName": "Notebook Lock",
         "productDescription": "Robust 1m anti-burglary protection for your desktop computer",
         "productPrice": 6.9
     },
     {
-        "productId": "HT-1112",
+        "productId": 2057,
         "productName": "Web cam reality",
         "productDescription": "Color webcam, color, High-Speed USB",
         "productPrice": 39
     },
     {
-        "productId": "HT-1113",
+        "productId": 2058,
         "productName": "Screen clean",
         "productDescription": "10 separately packed screen wipes",
         "productPrice": 2.3
     },
     {
-        "productId": "HT-1114",
+        "productId": 2059,
         "productName": "Fabric bag professional",
         "productDescription": "Notebook bag, plenty of room for stationery and writing materials",
         "productPrice": 31
     },
     {
-        "productId": "HT-1115",
+        "productId": 2060,
         "productName": "Wireless DSL Router",
         "productDescription": "Wireless DSL Router (available in blue, black and silver)",
         "productPrice": 49
     },
     {
-        "productId": "HT-1116",
+        "productId": 2061,
         "productName": "Wireless DSL Router / Repeater",
         "productDescription": "Wireless DSL Router / Repeater (available in blue, black and silver)",
         "productPrice": 59
     },
     {
-        "productId": "HT-1117",
+        "productId": 2062,
         "productName": "Wireless DSL Router / Repeater and Print Server",
         "productDescription": "Wireless DSL Router / Repeater and Print Server (available in blue, black and silver)",
         "productPrice": 69
     },
     {
-        "productId": "HT-1118",
+        "productId": 2063,
         "productName": "USB Stick",
         "productDescription": "USB 2.0 High-Speed 64 GB",
         "productPrice": 35
     },
     {
-        "productId": "HT-1120",
+        "productId": 2064,
         "productName": "Cordless Bluetooth Keyboard, english international",
         "productDescription": "Cordless Bluetooth Keyboard with English keys",
         "productPrice": 29
     },
     {
-        "productId": "HT-1137",
+        "productId": 2065,
         "productName": "Flat XXL",
         "productDescription": "Optimum Hi-Resolution max. 2048 × 1536 @ 85Hz, Dot Pitch: 0.24mm",
         "productPrice": 1430
     },
     {
-        "productId": "HT-1138",
+        "productId": 2066,
         "productName": "Pocket Mouse",
         "productDescription": "Portable pocket Mouse with retracting cord",
         "productPrice": 23
     },
     {
-        "productId": "HT-1210",
+        "productId": 2067,
         "productName": "PC Power Station",
         "productDescription": "PC Power Station with 3,4 Ghz quad-core, 32 GB DDR3 SDRAM, feels like Available PC, Windows 8 Pro",
         "productPrice": 2399
     },
     {
-        "productId": "HT-1500",
+        "productId": 2068,
         "productName": "Server Basic",
         "productDescription": "Dual socket, quad-core processing server with 1333 MHz Front Side Bus with 10Gb connectivity",
         "productPrice": 5000
     },
     {
-        "productId": "HT-1501",
+        "productId": 2069,
         "productName": "Server Professional",
         "productDescription": "Dual socket, quad-core processing server with 1644 MHz Front Side Bus with 10Gb connectivity",
         "productPrice": 15000
     },
     {
-        "productId": "HT-1502",
+        "productId": 2070,
         "productName": "Server Power Pro",
         "productDescription": "Dual socket, quad-core processing server with 1644 MHz Front Side Bus with 100Gb connectivity",
         "productPrice": 25000
     },
     {
-        "productId": "HT-6130",
+        "productId": 2071,
         "productName": "Flat Watch HD32",
         "productDescription": "32-inch, 1366x768 Pixel, 16:9, HDTV ready",
         "productPrice": 1459
     },
     {
-        "productId": "HT-6131",
+        "productId": 2072,
         "productName": "Flat Watch HD37",
         "productDescription": "37-inch, 1366x768 Pixel, 16:9, HDTV ready",
         "productPrice": 1199
     },
     {
-        "productId": "HT-6132",
+        "productId": 2073,
         "productName": "Flat Watch HD41",
         "productDescription": "41-inch, 1366x768 Pixel, 16:9, HDTV ready",
         "productPrice": 899
     },
     {
-        "productId": "HT-7030",
+        "productId": 2074,
         "productName": "Platinberry",
         "productDescription": "Our new multifunctional Handheld with phone function in platinum",
         "productPrice": 549
     },
     {
-        "productId": "HT-7020",
+        "productId": 2075,
         "productName": "Goldberry",
         "productDescription": "Our new multifunctional Handheld with phone function in gold",
         "productPrice": 549
     },
     {
-        "productId": "HT-7010",
+        "productId": 2076,
         "productName": "Silverberry",
         "productDescription": "Our new multifunctional Handheld with phone function in silver",
         "productPrice": 549
     },
     {
-        "productId": "HT-7000",
+        "productId": 2077,
         "productName": "Copperberry",
         "productDescription": "Our new multifunctional Handheld with phone function in copper",
         "productPrice": 549
     },
     {
-        "productId": "HT-1095",
+        "productId": 2078,
         "productName": "Lovely Sound 5.1 Wireless",
         "productDescription": "5.1 Headset, 40 Hz-20 kHz, Wireless",
         "productPrice": 49
     },
     {
-        "productId": "HT-1096",
+        "productId": 2079,
         "productName": "Lovely Sound 5.1",
         "productDescription": "5.1 Headset, 40 Hz-20 kHz, 3m cable",
         "productPrice": 39
     },
     {
-        "productId": "HT-1097",
+        "productId": 2080,
         "productName": "Lovely Sound Stereo",
         "productDescription": "5.1 Headset, 40 Hz-20 kHz, 1m cable",
         "productPrice": 29
     },
     {
-        "productId": "HT-6123",
+        "productId": 2081,
         "productName": "Power Pro Player 80",
         "productDescription": "MP3-Player with 80 GB SSD and Color Display, can play movies",
         "productPrice": 299
     },
     {
-        "productId": "HT-6122",
+        "productId": 2082,
         "productName": "Power Pro Player 40",
         "productDescription": "MP3-Player with 40 GB HDD and Color Display, can play movies",
         "productPrice": 167
     },
     {
-        "productId": "HT-6121",
+        "productId": 2083,
         "productName": "ITelo Jog-Mate",
         "productDescription": "ITelo Jog-Mate 64 GB HDD and Color Display, can play movies",
         "productPrice": 63
     },
     {
-        "productId": "HT-6120",
+        "productId": 2084,
         "productName": "ITelo MusicStick",
         "productDescription": "64 GB USB Music-on-Available-Stick",
         "productPrice": 45
     },
     {
-        "productId": "HT-6111",
+        "productId": 2085,
         "productName": "Record Movie",
         "productDescription": "160 GB HDD, CD-RW, DVD+R/RW, DVD-R/RW, MPEG 2 (Video-DVD), MPEG 4, VCD, SVCD, DivX, Xvid",
         "productPrice": 288
     },
     {
-        "productId": "HT-6110",
+        "productId": 2086,
         "productName": "Play Movie",
         "productDescription": "CD-RW, DVD+R/RW, DVD-R/RW, MPEG 2 (Video-DVD), MPEG 4, VCD, SVCD, DivX, Xvid",
         "productPrice": 130
     },
     {
-        "productId": "HT-6102",
+        "productId": 2087,
         "productName": "Beam Breaker B-3",
         "productDescription": "1080p, DLP max. 12,3 Meter, 3D-ready",
         "productPrice": 889
     },
     {
-        "productId": "HT-6101",
+        "productId": 2088,
         "productName": "Beam Breaker B-2",
         "productDescription": "1080p, DLP max.9,34 Meter, 2D-ready",
         "productPrice": 679
     },
     {
-        "productId": "HT-6100",
+        "productId": 2090,
         "productName": "Beam Breaker B-1",
         "productDescription": "720p, DLP Projector max. 8,45 Meter, 2D",
         "productPrice": 469
     },
     {
-        "productId": "HT-2027",
+        "productId": 2091,
         "productName": "Removable CD/DVD Laser Labels",
         "productDescription": "Removable jewel case labels, zero residues (100)",
         "productPrice": 8.99
     },
     {
-        "productId": "HT-2026",
+        "productId": 2092,
         "productName": "Audio/Video Cable Kit - 4m",
         "productDescription": "Quality cables for notebooks and projectors",
         "productPrice": 29.99
     },
     {
-        "productId": "HT-2025",
+        "productId": 2093,
         "productName": "CD/DVD case: 264 sleeves",
         "productDescription": "Organizer and protective case for 264 CDs and DVDs",
         "productPrice": 44.99
     },
     {
-        "productId": "HT-1603",
+        "productId": 2096,
         "productName": "Gaming Monster Pro",
         "productDescription": "3,4 Ghz quad core, 16 GB DDR3 SDRAM, 4000 GB Hard Disc, Graphic Card: Hurricane GX, Windows 8",
         "productPrice": 1700
     },
     {
-        "productId": "HT-1602",
+        "productId": 2097,
         "productName": "Gaming Monster",
         "productDescription": "3,4 Ghz quad core, 8 GB DDR3 SDRAM, 2000 GB Hard Disc, Graphic Card: Gladiator MX, Windows 8",
         "productPrice": 1200
     },
     {
-        "productId": "HT-1601",
+        "productId": 2098,
         "productName": "Family PC Pro",
         "productDescription": "2,8 Ghz dual core, 4 GB DDR3 SDRAM, 1000 GB Hard Disc, Graphic Card: Gladiator MX, Windows 8",
         "productPrice": 900
     },
     {
-        "productId": "HT-1600",
+        "productId": 2099,
         "productName": "Family PC Basic",
         "productDescription": "2,8 Ghz dual core, 4 GB DDR3 SDRAM, 500 GB Hard Disc, Graphic Card: Proctra X, Windows 8",
         "productPrice": 600
     },
     {
-        "productId": "HT-1119",
+        "productId": 2100,
         "productName": "Travel Adapter",
         "productDescription": "Universal Travel Adapter",
         "productPrice": 79
     },
     {
-        "productId": "HT-8000",
+        "productId": 2101,
         "productName": "ITelO FlexTop I4000",
         "productDescription": "Notebook with 2,80 GHz dual core, 4 GB DDR3 SDRAM, 500 GB Hard Disc, Windows 8",
         "productPrice": 799
     },
     {
-        "productId": "HT-8001",
+        "productId": 2102,
         "productName": "ITelO FlexTop I6300c",
         "productDescription": "Notebook with 2,80 GHz dual core, 8 GB DDR3 SDRAM, 500 GB Hard Disc, Windows 8",
         "productPrice": 799
     },
     {
-        "productId": "HT-8002",
+        "productId": 2103,
         "productName": "ITelO FlexTop I9100",
         "productDescription": "Notebook with 2,80 GHz quad core, 4 GB DDR3 SDRAM, 1000 GB Hard Disc, Windows 8",
         "productPrice": 1199
     },
     {
-        "productId": "HT-8003",
+        "productId": 2104,
         "productName": "ITelO FlexTop I9800",
         "productDescription": "Notebook with 2,80 GHz quad core, 8 GB DDR3 SDRAM, 1000 GB Hard Disc, Windows 8",
         "productPrice": 1388
     },
     {
-        "productId": "PF-1000",
+        "productId": 2105,
         "productName": "Flyer",
         "productDescription": "Flyer for our product palette",
         "productPrice": 0
     },
     {
-        "productId": "HT-9999",
+        "productId": 2106,
         "productName": "Maxi Tablet",
         "productDescription": "10.1-inch Multitouch HD Screen (1280 x 800), 16GB Internal Memory, Wireless N Wi-Fi; Bluetooth, GPS Enabled, 1GHz Dual-Core Processor",
         "productPrice": 749
     },
     {
-        "productId": "HT-9998",
+        "productId": 2107,
         "productName": "Smartphone Beta",
         "productDescription": "5 Megapixel Camera, Wi-Fi 802.11 b/g/n, Bluetooth, GPS Available-GPS support",
         "productPrice": 30
     },
     {
-        "productId": "HT-9997",
+        "productId": 2108,
         "productName": "e-Book Reader ReadMe",
         "productDescription": "6-Inch E Ink Screen, Access To e-book Store, Adjustable Font Styles and Sizes, Stores Up To 1,000 Books",
         "productPrice": 33
     },
     {
-        "productId": "HT-9996",
+        "productId": 2109,
         "productName": "Tablet Pouch",
         "productDescription": "Stylish tablet pouch, protects from scratches, color: black",
         "productPrice": 20
     },
     {
-        "productId": "HT-9995",
-        "productName": "Smartphone Cover",
-        "productDescription": "Durable high quality plastic bump-sleeve, lightweight, protects from scratches, rubber coating, multiple colors available, Accurate design and cut-outs for your device, snap-on design",
-        "productPrice": 15
-    },
-    {
-        "productId": "HT-1252",
-        "productName": "Astro Phone 6",
-        "productDescription": "6 inch 1280x800 HD display (216 ppi), Quad-core processor, 8 GB internal storage (actual formatted capacity will be less), 3050 mAh battery (Up to 8 hours of active use), grey or black",
-        "productPrice": 649
-    },
-    {
-        "productId": "HT-9993",
+        "productId": 2112,
         "productName": "Mini Tablet",
         "productDescription": "7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage, 4325 mAh battery (Up to 8 hours of active use)",
         "productPrice": 833
     },
     {
-        "productId": "HT-9992",
-        "productName": "Smartphone Alpha",
-        "productDescription": "7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage (actual formatted capacity will be less), 4325 mAh battery (Up to 8 hours of active use), white or black",
-        "productPrice": 599
-    },
-    {
-        "productId": "HT-9991",
+        "productId": 2114,
         "productName": "Smartphone Leather Case",
         "productDescription": "Button Clasp, Quality Material, 100% Leather, compatible with many smartphone models",
         "productPrice": 25
     },
     {
-        "productId": "HT-1254",
+        "productId": 2118,
         "productName": "Bending Screen 21HD",
         "productDescription": "Optimum Hi-Resolution Widescreen max. 1920 x 1080 @ 85Hz, Dot Pitch: 0.27mm, HDMI, Discontinued-Sub",
         "productPrice": 250
     },
     {
-        "productId": "HT-1255",
+        "productId": 2119,
         "productName": "Broad Screen 22HD",
         "productDescription": "Optimum Hi-Resolution Widescreen max. 2048 x 1080 @ 85Hz, Dot Pitch: 0.27mm, HDMI, Discontinued-Sub",
         "productPrice": 270
     },
     {
-        "productId": "HT-1256",
-        "productName": "Cerdik Phone 7",
-        "productDescription": "7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage (actual formatted capacity will be less), 4325 mAh battery (Up to 8 hours of active use), white or black",
-        "productPrice": 549
-    },
-    {
-        "productId": "HT-1257",
+        "productId": 2121,
         "productName": "Cepat Tablet 10.5",
         "productDescription": "10.5-inch Multitouch HD Screen (1280 x 800), 16GB Internal Memory, Wireless N Wi-Fi; Bluetooth, GPS Enabled, 1GHz Dual-Core Processor",
         "productPrice": 549
-    },
-    {
-        "productId": "HT-1258",
-        "productName": "Cepat Tablet 8",
-        "productDescription": "8-inch Multitouch HD Screen (2000 x 1500) 32GB Internal Memory, Wireless N Wi-Fi, Bluetooth, GPS Enabled, 1.5 GHz Quad-Core Processor",
-        "productPrice": 529
     }
 ]
